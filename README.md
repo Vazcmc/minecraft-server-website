@@ -2,4 +2,4 @@
 A Minecraft Server Website written in html
 
 This website can be previewed here
-https://vazcmc.github.io/minecraft-server-website/website.html
+https://vazcmc.github.io/minecraft-server-website/code.html
